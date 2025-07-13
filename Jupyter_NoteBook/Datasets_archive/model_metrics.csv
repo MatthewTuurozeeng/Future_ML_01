@@ -1,0 +1,5 @@
+Model,Metric,Value
+Prophet_MAE,MAE,35626.5
+Prophet_RMSE,RMSE,188.75
+RandomForest_MSE,MAE,65461.99
+RandomForest_RMSE,RMSE,255.86
